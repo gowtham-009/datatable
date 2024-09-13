@@ -1,0 +1,16 @@
+.arrow{
+    opacity: 0.8;
+   
+}
+th{
+    cursor: pointer;
+}
+
+  .hidden {
+    display: none;
+  }
+.pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
